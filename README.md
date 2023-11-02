@@ -1,0 +1,2 @@
+<h1>Computer Graphics SDK</h1>
+This repository was created to store all the most used libraries for computer graphics programming with the aim of making our lives easier, making it not necessary to search for all the libraries to link them to your projects. I did NOT create these libraries, all creators have been credited in this repository with a link to their official website.
